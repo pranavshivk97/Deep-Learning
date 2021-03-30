@@ -1,4 +1,4 @@
-# Deep-Learning
+# Introduction to Deep Learning
 
 Assignments and final project for the graduate course ECE 16:332:579 Introduction to Deep Learning. The file tree is listed below:
 
