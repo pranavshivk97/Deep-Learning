@@ -7,4 +7,5 @@ Assignments and final project for the graduate course ECE 16:332:579 Introductio
 * HW3 - Implementation of a neural network
   * a - Using only numpy
   * b - Using PyTorch and auto gradient
-  
+* HW4 - Training the CIFAR10 dataset on LeNet5 CNN architecture
+* HW5 - Training and pruning a LeNet5 CNN model
